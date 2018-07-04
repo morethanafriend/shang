@@ -5,5 +5,5 @@ public class test2 {
 		// TODO Auto-generated method stub
 System.out.println("buhao");
 	}
-// this is my case
+
 }
